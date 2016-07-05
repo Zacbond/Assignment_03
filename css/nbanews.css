@@ -1,0 +1,46 @@
+body { background-image:url(../images/gold.png);
+	   background-repeat: no-repeat; 
+	   background-attachment: scroll;
+	   background-size: cover;
+	}
+
+h1   { text-align: center;
+	   text-decoration: underline;
+	   text-transform: uppercase;
+	   text-indent: 10px;
+	   font-family: arial;
+	   font-style: oblique; 
+	   text-shadow: 3px 3px yellow;
+	   color: gold; 
+	   border-style: dashed; 
+	   border-color: blue;
+	   border-width: 6px;
+	}
+
+span { text-align: center;
+       text-decoration: underline;
+       text-indent: 4px;
+       line-height: 100px;
+       font-style: italic;
+       font-family: arial;
+       color: yellow;
+     }
+div { float: left;
+	  font-family: arial;
+	  font-style: italic;
+	  width: 300px;
+	  color: yellow;
+	}
+#golden { float: left;
+	     font-family: arial;
+	     font-style: italic;
+	     width: 300px;
+	     color: yellow;
+	    
+	 }
+#warrior { float: right;
+	      font-family: arial;
+	      font-style: italic;
+	      width: 300px;
+	  	  color: yellow;
+	  	}	

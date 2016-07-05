@@ -1,0 +1,38 @@
+body { background-image:url(../images/overguns.jpeg); 
+	   background-repeat: repeat;
+	   background-attachment: scroll;
+	   
+	}
+
+h1 { text-align: justify;
+	text-decoration: underline;
+	text-transform: capitalize;
+	text-indent: 6px;
+	font-family: verdana;
+	font-style: oblique;
+	color: cyan;
+	 }
+
+div {float: left;
+	font-family: georgia;
+	font-style: italic;
+	text-indent: 3px;
+	width: 160px;
+	color: white;
+}
+
+p { float: left;
+	font-family: georgia;
+	font-style: italic;
+	text-indent: 3px;
+	width: 200px;
+	color: white;
+	 }
+
+#review {float: left;
+	    font-family: georgia;
+	    font-style: italic;
+	    text-indent: 3px;
+	    width: 180px;
+		color: white;
+	}

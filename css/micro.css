@@ -1,0 +1,46 @@
+body { background-image:url(../images/micro3.jpeg);
+ 	   background-repeat: no-repeat;
+ 	   background-attachment: scroll;
+ 	   background-size: cover;
+ }
+
+img { height: 300px; 
+	  width:  300px; 
+ 	}
+
+ nav ul{ 
+ 		margin: 0; 
+ 		display: inline;
+ 	}
+ nav ul li{
+ 		color: green;
+ 		padding: 5px 10px;
+ 		list-style-type: none;
+ 		display: inline-block;
+ 	}
+ h1 { 
+ 	color: crimson;
+ 	font-family: lucida;
+ 	text-transform: italic; 
+ 	text-align: center;
+ 	}
+
+h2 { 
+	  float: left;
+	  width: 100%;
+ 	  margin: 10px 160px;
+ 	  font-family: lucida;
+ 	  text-transform: italic;
+ 	  color: crimson;
+ 	}
+#surface1 {
+		float: left; 
+ 		width: 200px;
+ 		margin: 30px 160px;
+ 	}
+
+#surface2{ 	
+ 			float: left;
+ 			width: 160px;
+ 			margin: 0px 120px 80px 0px;
+ 			}
